@@ -120,7 +120,7 @@ export default function App() {
             <div>
               <div className="flex items-center gap-2">
                 <h1 className="text-2xl font-black tracking-tight bg-gradient-to-r from-white via-slate-200 to-slate-400 bg-clip-text text-transparent">
-                  EV TELEMETRY
+                  ECOMILE LAB DASHBOARD
                 </h1>
                 <span className="text-[10px] uppercase tracking-widest font-extrabold px-2 py-0.5 rounded-full bg-cyan-500/10 text-cyan-400 border border-cyan-500/30">
                   v2.4 PROT
